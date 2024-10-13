@@ -2,3 +2,8 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+.image.avatar img {
+    width: 150px; // Adjust the width as needed
+    height: auto; // Keeps the aspect ratio intact
+}

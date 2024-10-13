@@ -1,22 +1,19 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Network Causal Effect Estimation In Graphical Models Of Contagion And Latent Confounding
+    authors: <strong>Yufeng Wu</strong>, Rohit Bhattacharya
+    # conference_short: CLeaR
+    conference: Causal Learning and Reasoning (CLeaR), 2025
+    pdf: TODO
+    notes: Under Preparation
+    image: ./assets/img/teaser_interference_paper.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Improving and Evaluating Machine Learning Methods Forensic Shoeprint Matching"
+    authors: Divij Jain*, Saatvik Kher*, Lena Liang*, <strong>Yufeng Wu*</strong>, Ashley Zheng*, Xizhen Cai, Anna Plantinga, Elizabeth Upton (* = equal contribution)
+    # conference_short: JRSS-C
+    conference: "Journal of the Royal Statistical Society Series C: Applied Statistics"
+    pdf: https://arxiv.org/pdf/2405.14878
+    code: https://github.com/saatvikkher/SoleMate
+    page: https://solemate.streamlit.app/
+    notes: Under Review (passed 1st round of review with major revision required)
+    image: ./assets/img/teaser_shoeprint_paper.png
