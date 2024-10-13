@@ -16,12 +16,12 @@ My research mainly lies in the intersection of Machine Learning and Causal Infer
 
 ## News
 
-- **[June. 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seatle, WA.
-- **[June. 2024]** I graduted from Williams College and am honored to receive *Valedictorian*, *Summa Cum Laude*, and *Highst Honor in Computer Science* awards!
+- **[June. 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA.
+- **[June. 2024]** I graduated from Williams College and am honored to receive *Valedictorian*, *Summa Cum Laude*, and *Highest Honor in Computer Science* awards!
 - **[May. 2024]** I successfully defended my thesis before the Computer Science department at Williams College!
 - **[Nov. 2023]** My collaborators and I submitted a research paper on ML robustness to *Journal of the Royal Statistical Society Series C: Applied Statistics*. Preprint can be accessed [here](arxiv.org/pdf/2405.14878).
 - **[August. 2023]** My collaborators and I published one of our research outcome as an interative web App! Try [here](https://solemate.streamlit.app/).
-
+<!-- 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->

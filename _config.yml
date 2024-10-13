@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/in/yufeng-wu-62b58a245/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/photo_small.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 
