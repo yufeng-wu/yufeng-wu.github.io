@@ -5,10 +5,10 @@ main:
     # conference_short: CLeaR
     conference: Causal Learning and Reasoning (CLeaR), 2025
     pdf: TODO
-    notes: Under Preparation
+    notes: "Under Preparation <br> Oral Presentation at American Causal Inference Conference (ACIC) 2024" 
     image: ./assets/img/teaser_interference_paper.png
 
-  - title: "Improving and Evaluating Machine Learning Methods Forensic Shoeprint Matching"
+  - title: "Improving and Evaluating Machine Learning Methods for Forensic Shoeprint Matching"
     authors: Divij Jain*, Saatvik Kher*, Lena Liang*, <strong>Yufeng Wu*</strong>, Ashley Zheng*, Xizhen Cai, Anna Plantinga, Elizabeth Upton (* = equal contribution)
     # conference_short: JRSS-C
     conference: "Journal of the Royal Statistical Society Series C: Applied Statistics"
