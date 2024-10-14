@@ -5,7 +5,7 @@ permalink: /news_detail/
 
 <br>
 
-[Back](./me/) to Yufeng Wu's homepage.
+[Back](..) to Yufeng Wu's homepage.
 
 <br>
 
