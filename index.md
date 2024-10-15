@@ -14,7 +14,7 @@ In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/
 
 - **Responsible AI---Robustness, Safety, and Generalizability:** investigating why models fail in certain scenarios and creating methods to help models perform reliably across diverse real-world contexts.
 
-- **Causality for AI:** leveraging the framework of causality to enhance AI models' explainability, resilience to distribution shifts, and management of dependencies in the training data.
+- **Causality for AI:** leveraging the framework of causality to enhance AI models' data efficiency, explainability, and resilience to distribution shifts.
 
 ## News
 #### See more details (e.g. photos, slides) [here](./news_detail). 
