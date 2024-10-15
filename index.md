@@ -19,7 +19,7 @@ In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/
 ## News
 #### See more details (e.g. photos, slides) [here](./news_detail). 
 
-- **[Jun. 2024]** I graduated from Williams College and am honored to receive *Valedictorian*, *Summa Cum Laude*, and *Highest Honor in Computer Science* awards!
+- **[Jun. 2024]** I graduated from Williams College and am honored to receive *Valedictorian*, *Summa Cum Laude*, and *Highest Honors in Computer Science* awards!
 - **[May 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA. See photo and slides [here](./news_detail/#acic-2024-oral). 
 - **[May 2024]** I successfully defended my thesis before the Computer Science department at Williams College! See details [here](./news_detail/#thesis-talk). 
 - **[Nov. 2023]** My collaborators and I submitted a research paper on ML robustness to *Journal of the Royal Statistical Society Series C: Applied Statistics*. Preprint can be accessed [here](https://arxiv.org/pdf/2405.14878).
