@@ -26,4 +26,4 @@ In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/
 - **[Aug. 2023]** During SMALL REU program, my collaborators and I published an interactive web App called "SoleMate: An End-To-End System for Forensic Shoeprint Matching". Try [here](https://solemate.streamlit.app/)!
 
 {% include_relative _includes/publications.md %}
-
+{% include_relative _includes/awards.md %}
