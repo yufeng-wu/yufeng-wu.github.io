@@ -6,7 +6,7 @@ layout: homepage
 
 I graduated from [Williams College](https://williams.edu/) in June, 2024 with a B.A. with Honors in Computer Science and Economics. 
 
-My research mainly lies in the intersection of Machine Learning and Causal Inference. I wrote my undergraduate thesis with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in social networks where data is non-i.i.d.. My thesis can be accessed [here](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786).
+My research mainly lies in the intersection of Machine Learning and Causal Inference. I wrote my undergraduate thesis with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in social networks where data is non-i.i.d. (non-independent and identically distributed). My thesis can be accessed [here](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786).
 
 In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/small/) program and collaborated with [CSAFE](https://forensicstats.org/) to improve the robustness and explainability of machine learning models for shoeprint matching in forensic applications. I was fortunate to receive direct guidance from Profs. [Xizhen Cai](https://sites.google.com/view/xizhen-cai/), [Anna Plantinga](https://sites.google.com/view/annaplantinga/home), and [Elizabeth Upton](https://www.eupton.com/) during this experience.
 
