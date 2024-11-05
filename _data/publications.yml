@@ -5,6 +5,7 @@ main:
     # conference_short: CLeaR
     conference: Causal Learning and Reasoning (CLeaR), 2025
     pdf: https://arxiv.org/pdf/2411.01371
+    code: https://github.com/yufeng-wu/interference_segregated_graph
     notes: "Under Review <br> Oral Presentation at American Causal Inference Conference (ACIC) 2024" 
     image: ./assets/img/teaser_interference_paper.png
 
