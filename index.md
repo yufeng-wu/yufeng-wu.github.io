@@ -12,9 +12,7 @@ In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/
 
 ## Research Interests
 
-- **Responsible AI---Robustness, Safety, and Generalizability:** investigating why models fail in certain scenarios and creating methods to help models perform reliably across diverse real-world contexts.
-
-- **Causality for AI:** leveraging the framework of causality to enhance AI models' data efficiency, explainability, and resilience to distribution shifts.
+I'm interted in AI reliability, including robustness, safety, and generalizability. I'd like to investigate why models fail in certain scenarios and crete methods to help models perform reliably across diverse real-world contexts.
 
 ## News
 #### See more details (e.g. photos, slides) [here](./news_detail). 
