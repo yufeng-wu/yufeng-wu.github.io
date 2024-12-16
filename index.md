@@ -12,7 +12,7 @@ In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/
 
 ## Research Interests
 
-I'm interted in AI reliability, including robustness, safety, and generalizability. I'd like to investigate why models fail in certain scenarios and crete methods to help models perform reliably across diverse real-world contexts.
+I'm interted in AI reliability, including robustness, safety, and generalizability. I'd like to investigate why models fail in certain scenarios and create methods to help models perform reliably across diverse real-world contexts.
 
 ## News
 #### See more details (e.g. photos, slides) [here](./news_detail). 
