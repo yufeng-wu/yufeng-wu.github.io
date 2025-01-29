@@ -17,7 +17,7 @@ I'm interted in AI reliability, including robustness, safety, and generalizabili
 ## News
 #### See more details (e.g. photos, slides) [here](./news_detail). 
 
-- **[Nov. 2024]** New paper about causal effect estimation in social networks is now up on [arXiv](https://arxiv.org/pdf/2411.01371) 🎉!
+- **[Jan. 2025]** Our paper on causal effect estimation in social networks got accepted by Causal Learning and Reasoning (CLeaR) 2025! 🎉
 - **[Jun. 2024]** I graduated from Williams College and am honored to receive *Valedictorian*, *Summa Cum Laude*, and *Highest Honors in Computer Science* awards!
 - **[May 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA. See photo and slides [here](./news_detail/#acic-2024-oral). 
 - **[May 2024]** I successfully defended my thesis before the Computer Science department at Williams College! See details [here](./news_detail/#thesis-talk). 
