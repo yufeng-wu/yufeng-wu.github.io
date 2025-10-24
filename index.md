@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: Yufeng Wu | MIT EECS
 ---
 
 ## About Me
