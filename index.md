@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I'm a first year PhD student at MIT department of EECS, adviced by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in June, 2024 with a B.A. with Honors in Computer Science and Economics.
+I'm a first-year Ph.D. student in the Department of Electrical Engineering and Computer Science (EECS) at MIT, advised by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in June, 2024 with a B.A. with Honors in Computer Science and Economics.
 
-I wrote my undergraduate thesis with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in social networks where data is non-i.i.d. (non-independent and identically distributed). My thesis can be accessed [here](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786).
+I wrote my undergraduate [thesis](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786) with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in network data where observations are not independent and identically distributed.
 
 In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/small/) program and collaborated with [CSAFE](https://forensicstats.org/) to improve the robustness and explainability of machine learning models for shoeprint matching in forensic applications.
 
-I'm generally interested in AI/ML and causal inference. I particularly enjoy creating methodological advancements that are grounded in theory.
+I'm generally interested in AI/ML and causal inference. I particularly enjoy creating methodological advancements that are grounded in theory. If you'd like to discuss research and/or collaborate, feel free to email me!
 
 ## News
 
