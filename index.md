@@ -18,7 +18,7 @@ I'm generally interested in AI/ML and causal inference. I particularly enjoy cre
 
 - **[Jan. 2025]** Our paper on causal effect estimation in social networks got accepted by Causal Learning and Reasoning (CLeaR) 2025! 🎉
 - **[Jun. 2024]** I graduated from Williams College and am honored to receive _Valedictorian_, _Summa Cum Laude_, and _Highest Honors in Computer Science_ awards!
-- **[May 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA. See photo and slides [here](./news_detail/#acic-2024-oral).
+- **[May 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA. See slides [here](./news_detail/#acic-2024-oral).
 - **[May 2024]** I successfully defended my thesis before the Computer Science department at Williams College! See details [here](./news_detail/#thesis-talk).
 - **[Nov. 2023]** My collaborators and I submitted a research paper on ML robustness to _Journal of the Royal Statistical Society Series C: Applied Statistics_. Preprint can be accessed [here](https://arxiv.org/pdf/2405.14878).
 - **[Aug. 2023]** During SMALL REU program, my collaborators and I published an interactive web App called "SoleMate: An End-To-End System for Forensic Shoeprint Matching". Try [here](https://solemate.streamlit.app/)!
