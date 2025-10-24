@@ -10,7 +10,7 @@ I wrote my undergraduate [thesis](https://librarysearch.williams.edu/discovery/d
 
 In summer 2023, I participated in the [SMALL NSF REU](https://math.williams.edu/small/) program and collaborated with [CSAFE](https://forensicstats.org/) to improve the robustness and explainability of machine learning models for shoeprint matching in forensic applications.
 
-I'm generally interested in AI/ML and causal inference. I particularly enjoy creating methodological advancements that are grounded in theory. If you'd like to discuss research and/or collaborate, feel free to email me!
+I'm generally interested in AI/ML and causal inference. I particularly enjoy creating methodological advancements that are grounded in theory. If you're interested in discussing research or potential collaborations, feel free to reach out via email!
 
 ## News
 
