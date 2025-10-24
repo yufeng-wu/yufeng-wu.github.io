@@ -10,6 +10,11 @@ keywords: Yufeng Wu (MIT PhD Student, EECS) Academic Website
 description: Yufeng Wu @ MIT EECS and Williams College, research in causal inference, machine learning, statistics, and LLM
 canonical: https://yufeng-wu.github.io/
 
+# Site URL configuration
+# Used by sitemap, canonical links, and absolute URLs
+url: https://yufeng-wu.github.io
+baseurl: ""
+
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=7jw9FrIAAAAJ&hl=en&oi=sra
@@ -42,6 +47,10 @@ font: "Serif" # or "Sans Serif"
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
+
+# Plugins
+plugins:
+  - jekyll-sitemap
 
 # The following files will be removed from the generated website.
 exclude:
