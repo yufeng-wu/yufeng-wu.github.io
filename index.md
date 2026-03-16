@@ -7,16 +7,15 @@ title: Yufeng Wu
 
 I'm a first-year Ph.D. student in the Department of Electrical Engineering and Computer Science (EECS) at MIT, advised by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in 2024 with a B.A. in Computer Science and Economics.
 
+I'm broadly interested in generative AI, causality, and their applications to world models and biology. I enjoy developing methods grounded in theory. 
+
 I wrote my undergraduate [thesis](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786) with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in network data where observations are not independent and identically distributed.
 
 In summer 2023, I participated in the [SMALL REU](https://math.williams.edu/small/) program and collaborated with [CSAFE](https://forensicstats.org/) to improve the robustness of ML models for shoeprint matching in forensic applications.
 
-I'm generally interested in AI/ML and causal inference. I particularly enjoy creating methodological advancements that are grounded in theory. If you're interested in discussing research or potential collaborations, feel free to reach out via email!
-
 ## News
 
 #### See more details [here](./news_detail).
-
 - **[Jan. 2025]** Our paper on causal effect estimation in social networks got accepted by Causal Learning and Reasoning (CLeaR) 2025! 🎉
 - **[Jun. 2024]** I graduated from Williams College and am honored to receive _Valedictorian_, _Summa Cum Laude_, and _Highest Honors in Computer Science_ awards!
 - **[May 2024]** I gave an oral presentation at the American Causal Inference Conference (ACIC) 2024, Seattle, WA. See slides [here](./news_detail/#acic-2024-oral).
