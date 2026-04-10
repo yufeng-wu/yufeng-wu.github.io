@@ -7,7 +7,7 @@ title: Yufeng Wu
 
 I'm a first-year Ph.D. student in the Department of Electrical Engineering and Computer Science (EECS) at MIT, advised by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in 2024 with a B.A. in Computer Science and Economics.
 
-I'm broadly interested in generative AI, causality, and their applications to world models and biology. I enjoy developing methods grounded in theory. 
+I'm broadly interested in generative AI and causal inference. I enjoy developing methods grounded in theory. 
 
 I wrote my undergraduate [thesis](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786) with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in network data where observations are not independent and identically distributed.
 
