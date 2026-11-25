@@ -28,5 +28,8 @@ In summer 2023, I participated in the [SMALL REU](https://math.williams.edu/smal
 
 ## Side Projects
 
-- **[Calmera](https://yufengwu.dev/calmera/)**: an AI calorie and macro tracker for iPhone, powered by your own ChatGPT or Claude.
+<div style="display:flex; align-items:center; gap:16px; margin:8px 0;">
+  <a href="https://yufengwu.dev/calmera/"><img src="./assets/img/calmera-icon.png" alt="Calmera app icon" style="width:96px; height:auto; flex-shrink:0;"></a>
+  <div><a href="https://yufengwu.dev/calmera/"><strong>Calmera</strong></a>: an AI calorie and macro tracker for iPhone, powered by your own ChatGPT or Claude.</div>
+</div>
 
