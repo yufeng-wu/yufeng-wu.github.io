@@ -5,7 +5,7 @@ title: Yufeng Wu
 
 ## About Me
 
-I'm a first-year Ph.D. student in the Department of Electrical Engineering and Computer Science (EECS) at MIT, advised by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in 2024 with a B.A. in Computer Science and Economics.
+I'm a second-year Ph.D. student in the Department of Electrical Engineering and Computer Science (EECS) at MIT, advised by Prof. [Caroline Uhler](https://www.carolineuhler.com/). I graduated from [Williams College](https://williams.edu/) in 2024 with a B.A. in Computer Science and Economics.
 
 I'm broadly interested in generative AI and causal inference. I enjoy developing methods grounded in theory. 
 
@@ -25,3 +25,8 @@ In summer 2023, I participated in the [SMALL REU](https://math.williams.edu/smal
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/awards.md %}
+
+## Side Projects
+
+- **[Calmera](https://yufengwu.dev/calmera/)**: an AI calorie and macro tracker for iPhone, powered by your own ChatGPT or Claude.
+
