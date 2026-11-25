@@ -27,6 +27,7 @@ In summer 2023, I participated in the [SMALL REU](https://math.williams.edu/smal
 {% include_relative _includes/awards.md %}
 
 ## Side Projects
+{: style="margin-top:28px;"}
 
 <div style="display:flex; align-items:center; gap:16px; margin:8px 0;">
   <a href="https://yufengwu.dev/calmera/"><img src="./assets/img/calmera-icon.png" alt="Calmera app icon" style="width:96px; height:auto; flex-shrink:0;"></a>
