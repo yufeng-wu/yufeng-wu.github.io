@@ -1,6 +1,7 @@
 ## Honors and Awards
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor><em>EECS Distinguished Engineering Fellow</em>, MIT, 2025</autocolor></li>
   <li><autocolor><em>Valedictorian</em>, Williams College, 2024</autocolor></li>
   <li><autocolor><em>Summa Cum Laude</em> (top 2% of class), Williams College, 2024</autocolor></li>
   <li><autocolor><em>Sigma Xi Soceity</em>, Williams College, 2024; Inducted into the Sigma Xi Soceity for excellence in research.</autocolor></li>
