@@ -9,6 +9,8 @@ I'm a second-year Ph.D. student in the Department of Electrical Engineering and 
 
 I'm broadly interested in generative AI and causal inference. I enjoy developing methods grounded in theory. 
 
+From June to September 2026, I was a research intern at Apple, working on a research project on post-training vision-language models.
+
 I wrote my undergraduate [thesis](https://librarysearch.williams.edu/discovery/delivery/01WIL_INST:01WIL_SPECIAL/12406122570002786) with Prof. [Rohit Bhattacharya](https://rohit-bhattacharya.com/) on developing novel causal inference methods in network data where observations are not independent and identically distributed.
 
 In summer 2023, I participated in the [SMALL REU](https://math.williams.edu/small/) program and collaborated with [CSAFE](https://forensicstats.org/) to improve the robustness of ML models for shoeprint matching in forensic applications.
